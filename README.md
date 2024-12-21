@@ -8,4 +8,4 @@ or original repositories have their issues I need to workaround.
 
 This Home Assistant Add-ons repository contains:
 
-- [Borg-based Backup for Home Assistant](https://github.com/bmanojlovic/home-assistant-borg-backup) by [bmanojlovic](https://github.com/bmanojlovic)
+- [Borg-based Backup for Home Assistant](https://github.com/ceskyDJ/home-assistant-borg-backup) by [bmanojlovic](https://github.com/bmanojlovic)
